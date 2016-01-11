@@ -1,0 +1,303 @@
+<SliderSetInfo version="1">
+    <SliderSet name="UUNP - Goma - TsunTsun Underwear">
+        <DataFolder>UUNP - Goma - TsunTsun Underwear</DataFolder>
+        <SourceFile>UUNP - Goma - TsunTsun Underwear.nif</SourceFile>
+        <OutputPath>meshes\Armor\Goma\Tsuntsun</OutputPath>
+        <OutputFile GenWeights="true">underwear</OutputFile>
+        <Shape target="aa">aa</Shape>
+        <Slider name="BreastsSmall" invert="true" small="100" big="100">
+            <Data name="aaBreastsSmall" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaBreastsSmall</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <Data name="aaBigTorso" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaBigTorso</Data>
+        </Slider>
+        <Slider name="Waist" invert="false" small="0" big="0">
+            <Data name="aaWaist" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaWaist</Data>
+        </Slider>
+        <Slider name="ChubbyWaist" invert="false" small="0" big="0">
+            <Data name="aaChubbyWaist" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaChubbyWaist</Data>
+        </Slider>
+        <Slider name="Belly" invert="false" small="0" big="0">
+            <Data name="aaBelly" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaBelly</Data>
+        </Slider>
+        <Slider name="BigBelly" invert="false" small="0" big="0">
+            <Data name="aaBigBelly" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaBigBelly</Data>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" small="0" big="0">
+            <Data name="aaPregnancyBelly" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaPregnancyBelly</Data>
+        </Slider>
+        <Slider name="TummyTuck" invert="false" small="0" big="0">
+            <Data name="aaTummyTuck" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaTummyTuck</Data>
+        </Slider>
+        <Slider name="Back" invert="false" small="0" big="0">
+            <Data name="aaBack" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaBack</Data>
+        </Slider>
+        <Slider name="Hipbone" invert="false" small="0" big="0">
+            <Data name="aaHipbone" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaHipbone</Data>
+        </Slider>
+        <Slider name="Hips" invert="false" small="0" big="0">
+            <Data name="aaHips" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaHips</Data>
+        </Slider>
+        <Slider name="ButtCrack" invert="true" small="100" big="100">
+            <Data name="aaButtCrack" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaButtCrack</Data>
+        </Slider>
+        <Slider name="Butt" invert="true" small="100" big="100">
+            <Data name="aaButt" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaButt</Data>
+        </Slider>
+        <Slider name="ButtSmall" invert="true" small="100" big="100">
+            <Data name="aaButtSmall" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaButtSmall</Data>
+        </Slider>
+        <Slider name="ButtShape2" invert="false" small="0" big="0">
+            <Data name="aaButtShape2" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaButtShape2</Data>
+        </Slider>
+        <Slider name="BigButt" invert="false" small="0" big="0">
+            <Data name="aaBigButt" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaBigButt</Data>
+        </Slider>
+        <Slider name="ChubbyButt" invert="false" small="0" big="0">
+            <Data name="aaChubbyButt" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaChubbyButt</Data>
+        </Slider>
+        <Slider name="AppleCheeks" invert="false" small="0" big="0">
+            <Data name="aaAppleCheeks" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaAppleCheeks</Data>
+        </Slider>
+        <Slider name="RoundAss" invert="false" small="0" big="0">
+            <Data name="aaRoundAss" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaRoundAss</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" small="0" big="0">
+            <Data name="aaSlimThighs" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaSlimThighs</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" small="0" big="0">
+            <Data name="aaThighs" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaThighs</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="aaChubbyLegs" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaChubbyLegs</Data>
+        </Slider>
+        <Slider name="Legs" invert="true" small="100" big="100">
+            <Data name="aaLegs" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaLegs</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="aaKneeHeight" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaKneeHeight</Data>
+        </Slider>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="aa7B Low" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aa7B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="aa7B High" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aa7B High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="aa7B Bombshell Low" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aa7B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="aa7B Bombshell High" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aa7B Bombshell High</Data>
+        </Slider>
+        <Slider name="7B Natural Low" invert="false" small="0" big="0">
+            <Data name="aa7B Natural Low" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aa7B Natural Low</Data>
+        </Slider>
+        <Slider name="7B Natural High" invert="false" small="0" big="0">
+            <Data name="aa7B Natural High" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aa7B Natural High</Data>
+        </Slider>
+        <Slider name="7B Cleavage Low" invert="false" small="0" big="0">
+            <Data name="aa7B Cleavage Low" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aa7B Cleavage Low</Data>
+        </Slider>
+        <Slider name="7B Cleavage High" invert="false" small="0" big="0">
+            <Data name="aa7B Cleavage High" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aa7B Cleavage High</Data>
+        </Slider>
+        <Slider name="7B BCup Low" invert="false" small="0" big="0">
+            <Data name="aa7B BCup Low" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aa7B BCup Low</Data>
+        </Slider>
+        <Slider name="7B BCup High" invert="false" small="0" big="0">
+            <Data name="aa7B BCup High" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aa7B BCup High</Data>
+        </Slider>
+        <Slider name="7BUNP Low" invert="false" small="0" big="0">
+            <Data name="aa7BUNP Low" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aa7BUNP Low</Data>
+        </Slider>
+        <Slider name="7BUNP High" invert="false" small="0" big="0">
+            <Data name="aa7BUNP High" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aa7BUNP High</Data>
+        </Slider>
+        <Slider name="7B Oppai Low" invert="false" small="0" big="0">
+            <Data name="aa7B Oppai Low" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aa7B Oppai Low</Data>
+        </Slider>
+        <Slider name="7B Oppai High" invert="false" small="0" big="0">
+            <Data name="aa7B Oppai High" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aa7B Oppai High</Data>
+        </Slider>
+        <Slider name="7B CH Low" invert="false" small="0" big="0">
+            <Data name="aa7B CH Low" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aa7B CH Low</Data>
+        </Slider>
+        <Slider name="7B CH High" invert="false" small="0" big="0">
+            <Data name="aa7B CH High" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aa7B CH High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="aaUNP Low" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaUNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="aaUNP High" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaUNP High</Data>
+        </Slider>
+        <Slider name="UNP Pushup Low" invert="false" small="0" big="0">
+            <Data name="aaUNP Pushup Low" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaUNP Pushup Low</Data>
+        </Slider>
+        <Slider name="UNP Pushup High" invert="false" small="0" big="0">
+            <Data name="aaUNP Pushup High" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaUNP Pushup High</Data>
+        </Slider>
+        <Slider name="UNP Skinny Low" invert="false" small="0" big="0">
+            <Data name="aaUNP Skinny Low" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaUNP Skinny Low</Data>
+        </Slider>
+        <Slider name="UNP Skinny High" invert="false" small="0" big="0">
+            <Data name="aaUNP Skinny High" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaUNP Skinny High</Data>
+        </Slider>
+        <Slider name="UNP Perky Low" invert="false" small="0" big="0">
+            <Data name="aaUNP Perky Low" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaUNP Perky Low</Data>
+        </Slider>
+        <Slider name="UNP Perky High" invert="false" small="0" big="0">
+            <Data name="aaUNP Perky High" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaUNP Perky High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="aaUNPB Low" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaUNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="aaUNPB High" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaUNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Chapi" invert="false" small="0" big="0">
+            <Data name="aaUNPB Chapi" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaUNPB Chapi</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v1" invert="false" small="0" big="0">
+            <Data name="aaUNPB Oppai v1" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaUNPB Oppai v1</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="aaUNPB Oppai v3.2 Low" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaUNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="aaUNPB Oppai v3.2 High" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaUNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPetite Low" invert="false" small="0" big="0">
+            <Data name="aaUNPetite Low" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaUNPetite Low</Data>
+        </Slider>
+        <Slider name="UNPetite High" invert="false" small="0" big="0">
+            <Data name="aaUNPetite High" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaUNPetite High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="aaUNPC Low" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaUNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="aaUNPC High" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaUNPC High</Data>
+        </Slider>
+        <Slider name="UNPCM Low" invert="false" small="0" big="0">
+            <Data name="aaUNPCM Low" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaUNPCM Low</Data>
+        </Slider>
+        <Slider name="UNPCM High" invert="false" small="0" big="0">
+            <Data name="aaUNPCM High" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaUNPCM High</Data>
+        </Slider>
+        <Slider name="UNPSH Low" invert="false" small="0" big="0">
+            <Data name="aaUNPSH Low" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaUNPSH Low</Data>
+        </Slider>
+        <Slider name="UNPSH High" invert="false" small="0" big="0">
+            <Data name="aaUNPSH High" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaUNPSH High</Data>
+        </Slider>
+        <Slider name="UNPK Low" invert="false" small="0" big="0">
+            <Data name="aaUNPK Low" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaUNPK Low</Data>
+        </Slider>
+        <Slider name="UNPK High" invert="false" small="0" big="0">
+            <Data name="aaUNPK High" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaUNPK High</Data>
+        </Slider>
+        <Slider name="UNPK Bonus Low" invert="false" small="0" big="0">
+            <Data name="aaUNPK Bonus Low" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaUNPK Bonus Low</Data>
+        </Slider>
+        <Slider name="UNPK Bonus High" invert="false" small="0" big="0">
+            <Data name="aaUNPK Bonus High" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaUNPK Bonus High</Data>
+        </Slider>
+        <Slider name="UN7B Low" invert="false" small="0" big="0">
+            <Data name="aaUN7B Low" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaUN7B Low</Data>
+        </Slider>
+        <Slider name="UN7B High" invert="false" small="0" big="0">
+            <Data name="aaUN7B High" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaUN7B High</Data>
+        </Slider>
+        <Slider name="UNPBB Low" invert="false" small="0" big="0">
+            <Data name="aaUNPBB Low" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaUNPBB Low</Data>
+        </Slider>
+        <Slider name="UNPBB High" invert="false" small="0" big="0">
+            <Data name="aaUNPBB High" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaUNPBB High</Data>
+        </Slider>
+        <Slider name="Seraphim Low" invert="false" small="0" big="0">
+            <Data name="aaSeraphim Low" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaSeraphim Low</Data>
+        </Slider>
+        <Slider name="Seraphim High" invert="false" small="0" big="0">
+            <Data name="aaSeraphim High" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaSeraphim High</Data>
+        </Slider>
+        <Slider name="Demonfet Low" invert="false" small="0" big="0">
+            <Data name="aaDemonfet Low" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaDemonfet Low</Data>
+        </Slider>
+        <Slider name="Demonfet High" invert="false" small="0" big="0">
+            <Data name="aaDemonfet High" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaDemonfet High</Data>
+        </Slider>
+        <Slider name="Dream Girl Low" invert="false" small="0" big="0">
+            <Data name="aaDream Girl Low" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaDream Girl Low</Data>
+        </Slider>
+        <Slider name="Dream Girl High" invert="false" small="0" big="0">
+            <Data name="aaDream Girl High" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaDream Girl High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="aaTop Model Low" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaTop Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="aaTop Model High" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaTop Model High</Data>
+        </Slider>
+        <Slider name="Leito Low" invert="false" small="0" big="0">
+            <Data name="aaLeito Low" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaLeito Low</Data>
+        </Slider>
+        <Slider name="Leito High" invert="false" small="0" big="0">
+            <Data name="aaLeito High" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaLeito High</Data>
+        </Slider>
+        <Slider name="UNPF Low" invert="false" small="0" big="0">
+            <Data name="aaUNPF Low" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaUNPF Low</Data>
+        </Slider>
+        <Slider name="UNPF High" invert="false" small="0" big="0">
+            <Data name="aaUNPF High" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaUNPF High</Data>
+        </Slider>
+        <Slider name="UNPFx Low" invert="false" small="0" big="0">
+            <Data name="aaUNPFx Low" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaUNPFx Low</Data>
+        </Slider>
+        <Slider name="UNPFx High" invert="false" small="0" big="0">
+            <Data name="aaUNPFx High" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaUNPFx High</Data>
+        </Slider>
+        <Slider name="CNHF Low" invert="false" small="0" big="0">
+            <Data name="aaCNHF Low" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaCNHF Low</Data>
+        </Slider>
+        <Slider name="CNHF High" invert="false" small="0" big="0">
+            <Data name="aaCNHF High" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaCNHF High</Data>
+        </Slider>
+        <Slider name="CNHF Bonus Low" invert="false" small="0" big="0">
+            <Data name="aaCNHF Bonus Low" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaCNHF Bonus Low</Data>
+        </Slider>
+        <Slider name="CNHF Bonus High" invert="false" small="0" big="0">
+            <Data name="aaCNHF Bonus High" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaCNHF Bonus High</Data>
+        </Slider>
+        <Slider name="MCBM Low" invert="false" small="0" big="0">
+            <Data name="aaMCBM Low" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaMCBM Low</Data>
+        </Slider>
+        <Slider name="MCBM High" invert="false" small="0" big="0">
+            <Data name="aaMCBM High" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaMCBM High</Data>
+        </Slider>
+        <Slider name="Venus Low" invert="false" small="0" big="0">
+            <Data name="aaVenus Low" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaVenus Low</Data>
+        </Slider>
+        <Slider name="Venus High" invert="false" small="0" big="0">
+            <Data name="aaVenus High" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaVenus High</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 Low" invert="false" small="0" big="0">
+            <Data name="aaZGGB-R2 Low" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaZGGB-R2 Low</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 High" invert="false" small="0" big="0">
+            <Data name="aaZGGB-R2 High" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaZGGB-R2 High</Data>
+        </Slider>
+        <Slider name="Manga Low" invert="false" small="0" big="0">
+            <Data name="aaManga Low" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaManga Low</Data>
+        </Slider>
+        <Slider name="Manga High" invert="false" small="0" big="0">
+            <Data name="aaManga High" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaManga High</Data>
+        </Slider>
+        <Slider name="CHSBHC Low" invert="false" small="0" big="0">
+            <Data name="aaCHSBHC Low" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaCHSBHC Low</Data>
+        </Slider>
+        <Slider name="CHSBHC High" invert="false" small="0" big="0">
+            <Data name="aaCHSBHC High" target="aa" local="true">UUNP - Goma - TsunTsun Underwear.osd\aaCHSBHC High</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

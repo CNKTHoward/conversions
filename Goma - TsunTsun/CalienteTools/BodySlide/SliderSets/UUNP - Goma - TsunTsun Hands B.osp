@@ -1,0 +1,381 @@
+<SliderSetInfo version="1">
+    <SliderSet name="UUNP - Goma - TsunTsun Hands B">
+        <DataFolder>UUNP - Goma - TsunTsun Hands B</DataFolder>
+        <SourceFile>UUNP - Goma - TsunTsun Hands B.nif</SourceFile>
+        <OutputPath>meshes\Armor\Goma\Tsuntsun</OutputPath>
+        <OutputFile GenWeights="true">HandsB</OutputFile>
+        <Shape target="Hands" DataFolder="Unified UNP">Hands</Shape>
+        <Shape target="Tsun_Cuirass.020">Tsun_Cuirass.020</Shape>
+        <Shape target="WolfGauntlets.001">WolfGauntlets.001</Shape>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="Hands7B Low" target="Hands">Hands7B Low.bsd</Data>
+            <Data name="Tsun_Cuirass.0207B Low" target="Tsun_Cuirass.020" local="true">UUNP - Goma - TsunTsun Hands B.osd\Tsun_Cuirass.0207B Low</Data>
+            <Data name="WolfGauntlets.0017B Low" target="WolfGauntlets.001" local="true">UUNP - Goma - TsunTsun Hands B.osd\WolfGauntlets.0017B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="Hands7B High" target="Hands">Hands7B High.bsd</Data>
+            <Data name="Tsun_Cuirass.0207B High" target="Tsun_Cuirass.020" local="true">UUNP - Goma - TsunTsun Hands B.osd\Tsun_Cuirass.0207B High</Data>
+            <Data name="WolfGauntlets.0017B High" target="WolfGauntlets.001" local="true">UUNP - Goma - TsunTsun Hands B.osd\WolfGauntlets.0017B High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="Hands7B Bombshell Low" target="Hands">Hands7B Bombshell Low.bsd</Data>
+            <Data name="Tsun_Cuirass.0207B Bombshell Low" target="Tsun_Cuirass.020" local="true">UUNP - Goma - TsunTsun Hands B.osd\Tsun_Cuirass.0207B Bombshell Low</Data>
+            <Data name="WolfGauntlets.0017B Bombshell Low" target="WolfGauntlets.001" local="true">UUNP - Goma - TsunTsun Hands B.osd\WolfGauntlets.0017B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="Hands7B Bombshell High" target="Hands">Hands7B Bombshell High.bsd</Data>
+            <Data name="Tsun_Cuirass.0207B Bombshell High" target="Tsun_Cuirass.020" local="true">UUNP - Goma - TsunTsun Hands B.osd\Tsun_Cuirass.0207B Bombshell High</Data>
+            <Data name="WolfGauntlets.0017B Bombshell High" target="WolfGauntlets.001" local="true">UUNP - Goma - TsunTsun Hands B.osd\WolfGauntlets.0017B Bombshell High</Data>
+        </Slider>
+        <Slider name="7B Natural Low" invert="false" small="0" big="0">
+            <Data name="Hands7B Natural Low" target="Hands">Hands7B Natural Low.bsd</Data>
+            <Data name="Tsun_Cuirass.0207B Natural Low" target="Tsun_Cuirass.020" local="true">UUNP - Goma - TsunTsun Hands B.osd\Tsun_Cuirass.0207B Natural Low</Data>
+            <Data name="WolfGauntlets.0017B Natural Low" target="WolfGauntlets.001" local="true">UUNP - Goma - TsunTsun Hands B.osd\WolfGauntlets.0017B Natural Low</Data>
+        </Slider>
+        <Slider name="7B Natural High" invert="false" small="0" big="0">
+            <Data name="Hands7B Natural High" target="Hands">Hands7B Natural High.bsd</Data>
+            <Data name="Tsun_Cuirass.0207B Natural High" target="Tsun_Cuirass.020" local="true">UUNP - Goma - TsunTsun Hands B.osd\Tsun_Cuirass.0207B Natural High</Data>
+            <Data name="WolfGauntlets.0017B Natural High" target="WolfGauntlets.001" local="true">UUNP - Goma - TsunTsun Hands B.osd\WolfGauntlets.0017B Natural High</Data>
+        </Slider>
+        <Slider name="7B Cleavage Low" invert="false" small="0" big="0">
+            <Data name="Hands7B Cleavage Low" target="Hands">Hands7B Cleavage Low.bsd</Data>
+            <Data name="Tsun_Cuirass.0207B Cleavage Low" target="Tsun_Cuirass.020" local="true">UUNP - Goma - TsunTsun Hands B.osd\Tsun_Cuirass.0207B Cleavage Low</Data>
+            <Data name="WolfGauntlets.0017B Cleavage Low" target="WolfGauntlets.001" local="true">UUNP - Goma - TsunTsun Hands B.osd\WolfGauntlets.0017B Cleavage Low</Data>
+        </Slider>
+        <Slider name="7B Cleavage High" invert="false" small="0" big="0">
+            <Data name="Hands7B Cleavage High" target="Hands">Hands7B Cleavage High.bsd</Data>
+            <Data name="Tsun_Cuirass.0207B Cleavage High" target="Tsun_Cuirass.020" local="true">UUNP - Goma - TsunTsun Hands B.osd\Tsun_Cuirass.0207B Cleavage High</Data>
+            <Data name="WolfGauntlets.0017B Cleavage High" target="WolfGauntlets.001" local="true">UUNP - Goma - TsunTsun Hands B.osd\WolfGauntlets.0017B Cleavage High</Data>
+        </Slider>
+        <Slider name="7B BCup Low" invert="false" small="0" big="0">
+            <Data name="Hands7B BCup Low" target="Hands">Hands7B BCup Low.bsd</Data>
+            <Data name="Tsun_Cuirass.0207B BCup Low" target="Tsun_Cuirass.020" local="true">UUNP - Goma - TsunTsun Hands B.osd\Tsun_Cuirass.0207B BCup Low</Data>
+            <Data name="WolfGauntlets.0017B BCup Low" target="WolfGauntlets.001" local="true">UUNP - Goma - TsunTsun Hands B.osd\WolfGauntlets.0017B BCup Low</Data>
+        </Slider>
+        <Slider name="7B BCup High" invert="false" small="0" big="0">
+            <Data name="Hands7B BCup High" target="Hands">Hands7B BCup High.bsd</Data>
+            <Data name="Tsun_Cuirass.0207B BCup High" target="Tsun_Cuirass.020" local="true">UUNP - Goma - TsunTsun Hands B.osd\Tsun_Cuirass.0207B BCup High</Data>
+            <Data name="WolfGauntlets.0017B BCup High" target="WolfGauntlets.001" local="true">UUNP - Goma - TsunTsun Hands B.osd\WolfGauntlets.0017B BCup High</Data>
+        </Slider>
+        <Slider name="7BUNP Low" invert="false" small="0" big="0">
+            <Data name="Hands7BUNP Low" target="Hands">Hands7BUNP Low.bsd</Data>
+            <Data name="Tsun_Cuirass.0207BUNP Low" target="Tsun_Cuirass.020" local="true">UUNP - Goma - TsunTsun Hands B.osd\Tsun_Cuirass.0207BUNP Low</Data>
+            <Data name="WolfGauntlets.0017BUNP Low" target="WolfGauntlets.001" local="true">UUNP - Goma - TsunTsun Hands B.osd\WolfGauntlets.0017BUNP Low</Data>
+        </Slider>
+        <Slider name="7BUNP High" invert="false" small="0" big="0">
+            <Data name="Hands7BUNP High" target="Hands">Hands7BUNP High.bsd</Data>
+            <Data name="Tsun_Cuirass.0207BUNP High" target="Tsun_Cuirass.020" local="true">UUNP - Goma - TsunTsun Hands B.osd\Tsun_Cuirass.0207BUNP High</Data>
+            <Data name="WolfGauntlets.0017BUNP High" target="WolfGauntlets.001" local="true">UUNP - Goma - TsunTsun Hands B.osd\WolfGauntlets.0017BUNP High</Data>
+        </Slider>
+        <Slider name="7B Oppai Low" invert="false" small="0" big="0">
+            <Data name="Hands7B Oppai Low" target="Hands">Hands7B Oppai Low.bsd</Data>
+            <Data name="Tsun_Cuirass.0207B Oppai Low" target="Tsun_Cuirass.020" local="true">UUNP - Goma - TsunTsun Hands B.osd\Tsun_Cuirass.0207B Oppai Low</Data>
+            <Data name="WolfGauntlets.0017B Oppai Low" target="WolfGauntlets.001" local="true">UUNP - Goma - TsunTsun Hands B.osd\WolfGauntlets.0017B Oppai Low</Data>
+        </Slider>
+        <Slider name="7B Oppai High" invert="false" small="0" big="0">
+            <Data name="Hands7B Oppai High" target="Hands">Hands7B Oppai High.bsd</Data>
+            <Data name="Tsun_Cuirass.0207B Oppai High" target="Tsun_Cuirass.020" local="true">UUNP - Goma - TsunTsun Hands B.osd\Tsun_Cuirass.0207B Oppai High</Data>
+            <Data name="WolfGauntlets.0017B Oppai High" target="WolfGauntlets.001" local="true">UUNP - Goma - TsunTsun Hands B.osd\WolfGauntlets.0017B Oppai High</Data>
+        </Slider>
+        <Slider name="7B CH Low" invert="false" small="0" big="0">
+            <Data name="Hands7B CH Low" target="Hands">Hands7B CH Low.bsd</Data>
+            <Data name="Tsun_Cuirass.0207B CH Low" target="Tsun_Cuirass.020" local="true">UUNP - Goma - TsunTsun Hands B.osd\Tsun_Cuirass.0207B CH Low</Data>
+            <Data name="WolfGauntlets.0017B CH Low" target="WolfGauntlets.001" local="true">UUNP - Goma - TsunTsun Hands B.osd\WolfGauntlets.0017B CH Low</Data>
+        </Slider>
+        <Slider name="7B CH High" invert="false" small="0" big="0">
+            <Data name="Hands7B CH High" target="Hands">Hands7B CH High.bsd</Data>
+            <Data name="Tsun_Cuirass.0207B CH High" target="Tsun_Cuirass.020" local="true">UUNP - Goma - TsunTsun Hands B.osd\Tsun_Cuirass.0207B CH High</Data>
+            <Data name="WolfGauntlets.0017B CH High" target="WolfGauntlets.001" local="true">UUNP - Goma - TsunTsun Hands B.osd\WolfGauntlets.0017B CH High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="HandsUNP Low" target="Hands">HandsUNP Low.bsd</Data>
+            <Data name="Tsun_Cuirass.020UNP Low" target="Tsun_Cuirass.020" local="true">UUNP - Goma - TsunTsun Hands B.osd\Tsun_Cuirass.020UNP Low</Data>
+            <Data name="WolfGauntlets.001UNP Low" target="WolfGauntlets.001" local="true">UUNP - Goma - TsunTsun Hands B.osd\WolfGauntlets.001UNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="HandsUNP High" target="Hands">HandsUNP High.bsd</Data>
+            <Data name="Tsun_Cuirass.020UNP High" target="Tsun_Cuirass.020" local="true">UUNP - Goma - TsunTsun Hands B.osd\Tsun_Cuirass.020UNP High</Data>
+            <Data name="WolfGauntlets.001UNP High" target="WolfGauntlets.001" local="true">UUNP - Goma - TsunTsun Hands B.osd\WolfGauntlets.001UNP High</Data>
+        </Slider>
+        <Slider name="UNP Pushup Low" invert="false" small="0" big="0">
+            <Data name="HandsUNP Pushup Low" target="Hands">HandsUNP Pushup Low.bsd</Data>
+            <Data name="Tsun_Cuirass.020UNP Pushup Low" target="Tsun_Cuirass.020" local="true">UUNP - Goma - TsunTsun Hands B.osd\Tsun_Cuirass.020UNP Pushup Low</Data>
+            <Data name="WolfGauntlets.001UNP Pushup Low" target="WolfGauntlets.001" local="true">UUNP - Goma - TsunTsun Hands B.osd\WolfGauntlets.001UNP Pushup Low</Data>
+        </Slider>
+        <Slider name="UNP Pushup High" invert="false" small="0" big="0">
+            <Data name="HandsUNP Pushup High" target="Hands">HandsUNP Pushup High.bsd</Data>
+            <Data name="Tsun_Cuirass.020UNP Pushup High" target="Tsun_Cuirass.020" local="true">UUNP - Goma - TsunTsun Hands B.osd\Tsun_Cuirass.020UNP Pushup High</Data>
+            <Data name="WolfGauntlets.001UNP Pushup High" target="WolfGauntlets.001" local="true">UUNP - Goma - TsunTsun Hands B.osd\WolfGauntlets.001UNP Pushup High</Data>
+        </Slider>
+        <Slider name="UNP Skinny Low" invert="false" small="0" big="0">
+            <Data name="HandsUNP Skinny Low" target="Hands">HandsUNP Skinny Low.bsd</Data>
+            <Data name="Tsun_Cuirass.020UNP Skinny Low" target="Tsun_Cuirass.020" local="true">UUNP - Goma - TsunTsun Hands B.osd\Tsun_Cuirass.020UNP Skinny Low</Data>
+            <Data name="WolfGauntlets.001UNP Skinny Low" target="WolfGauntlets.001" local="true">UUNP - Goma - TsunTsun Hands B.osd\WolfGauntlets.001UNP Skinny Low</Data>
+        </Slider>
+        <Slider name="UNP Skinny High" invert="false" small="0" big="0">
+            <Data name="HandsUNP Skinny High" target="Hands">HandsUNP Skinny High.bsd</Data>
+            <Data name="Tsun_Cuirass.020UNP Skinny High" target="Tsun_Cuirass.020" local="true">UUNP - Goma - TsunTsun Hands B.osd\Tsun_Cuirass.020UNP Skinny High</Data>
+            <Data name="WolfGauntlets.001UNP Skinny High" target="WolfGauntlets.001" local="true">UUNP - Goma - TsunTsun Hands B.osd\WolfGauntlets.001UNP Skinny High</Data>
+        </Slider>
+        <Slider name="UNP Perky Low" invert="false" small="0" big="0">
+            <Data name="HandsUNP Perky Low" target="Hands">HandsUNP Perky Low.bsd</Data>
+            <Data name="Tsun_Cuirass.020UNP Perky Low" target="Tsun_Cuirass.020" local="true">UUNP - Goma - TsunTsun Hands B.osd\Tsun_Cuirass.020UNP Perky Low</Data>
+            <Data name="WolfGauntlets.001UNP Perky Low" target="WolfGauntlets.001" local="true">UUNP - Goma - TsunTsun Hands B.osd\WolfGauntlets.001UNP Perky Low</Data>
+        </Slider>
+        <Slider name="UNP Perky High" invert="false" small="0" big="0">
+            <Data name="HandsUNP Perky High" target="Hands">HandsUNP Perky High.bsd</Data>
+            <Data name="Tsun_Cuirass.020UNP Perky High" target="Tsun_Cuirass.020" local="true">UUNP - Goma - TsunTsun Hands B.osd\Tsun_Cuirass.020UNP Perky High</Data>
+            <Data name="WolfGauntlets.001UNP Perky High" target="WolfGauntlets.001" local="true">UUNP - Goma - TsunTsun Hands B.osd\WolfGauntlets.001UNP Perky High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="HandsUNPB Low" target="Hands">HandsUNPB Low.bsd</Data>
+            <Data name="Tsun_Cuirass.020UNPB Low" target="Tsun_Cuirass.020" local="true">UUNP - Goma - TsunTsun Hands B.osd\Tsun_Cuirass.020UNPB Low</Data>
+            <Data name="WolfGauntlets.001UNPB Low" target="WolfGauntlets.001" local="true">UUNP - Goma - TsunTsun Hands B.osd\WolfGauntlets.001UNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="HandsUNPB High" target="Hands">HandsUNPB High.bsd</Data>
+            <Data name="Tsun_Cuirass.020UNPB High" target="Tsun_Cuirass.020" local="true">UUNP - Goma - TsunTsun Hands B.osd\Tsun_Cuirass.020UNPB High</Data>
+            <Data name="WolfGauntlets.001UNPB High" target="WolfGauntlets.001" local="true">UUNP - Goma - TsunTsun Hands B.osd\WolfGauntlets.001UNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Chapi" invert="false" small="0" big="0">
+            <Data name="HandsUNPB Chapi" target="Hands">HandsUNPB Chapi.bsd</Data>
+            <Data name="Tsun_Cuirass.020UNPB Chapi" target="Tsun_Cuirass.020" local="true">UUNP - Goma - TsunTsun Hands B.osd\Tsun_Cuirass.020UNPB Chapi</Data>
+            <Data name="WolfGauntlets.001UNPB Chapi" target="WolfGauntlets.001" local="true">UUNP - Goma - TsunTsun Hands B.osd\WolfGauntlets.001UNPB Chapi</Data>
+        </Slider>
+        <Slider name="UNPetite Low" invert="false" small="0" big="0">
+            <Data name="HandsUNPetite Low" target="Hands">HandsUNPetite Low.bsd</Data>
+            <Data name="Tsun_Cuirass.020UNPetite Low" target="Tsun_Cuirass.020" local="true">UUNP - Goma - TsunTsun Hands B.osd\Tsun_Cuirass.020UNPetite Low</Data>
+            <Data name="WolfGauntlets.001UNPetite Low" target="WolfGauntlets.001" local="true">UUNP - Goma - TsunTsun Hands B.osd\WolfGauntlets.001UNPetite Low</Data>
+        </Slider>
+        <Slider name="UNPetite High" invert="false" small="0" big="0">
+            <Data name="HandsUNPetite High" target="Hands">HandsUNPetite High.bsd</Data>
+            <Data name="Tsun_Cuirass.020UNPetite High" target="Tsun_Cuirass.020" local="true">UUNP - Goma - TsunTsun Hands B.osd\Tsun_Cuirass.020UNPetite High</Data>
+            <Data name="WolfGauntlets.001UNPetite High" target="WolfGauntlets.001" local="true">UUNP - Goma - TsunTsun Hands B.osd\WolfGauntlets.001UNPetite High</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v1" invert="false" small="0" big="0">
+            <Data name="HandsUNPB Oppai v1" target="Hands">HandsUNPB Oppai v1.bsd</Data>
+            <Data name="Tsun_Cuirass.020UNPB Oppai v1" target="Tsun_Cuirass.020" local="true">UUNP - Goma - TsunTsun Hands B.osd\Tsun_Cuirass.020UNPB Oppai v1</Data>
+            <Data name="WolfGauntlets.001UNPB Oppai v1" target="WolfGauntlets.001" local="true">UUNP - Goma - TsunTsun Hands B.osd\WolfGauntlets.001UNPB Oppai v1</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="HandsUNPB Oppai v3.2 Low" target="Hands">HandsUNPB Oppai v3.2 Low.bsd</Data>
+            <Data name="Tsun_Cuirass.020UNPB Oppai v3.2 Low" target="Tsun_Cuirass.020" local="true">UUNP - Goma - TsunTsun Hands B.osd\Tsun_Cuirass.020UNPB Oppai v3.2 Low</Data>
+            <Data name="WolfGauntlets.001UNPB Oppai v3.2 Low" target="WolfGauntlets.001" local="true">UUNP - Goma - TsunTsun Hands B.osd\WolfGauntlets.001UNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="HandsUNPB Oppai v3.2 High" target="Hands">HandsUNPB Oppai v3.2 High.bsd</Data>
+            <Data name="Tsun_Cuirass.020UNPB Oppai v3.2 High" target="Tsun_Cuirass.020" local="true">UUNP - Goma - TsunTsun Hands B.osd\Tsun_Cuirass.020UNPB Oppai v3.2 High</Data>
+            <Data name="WolfGauntlets.001UNPB Oppai v3.2 High" target="WolfGauntlets.001" local="true">UUNP - Goma - TsunTsun Hands B.osd\WolfGauntlets.001UNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="HandsUNPC Low" target="Hands">HandsUNPC Low.bsd</Data>
+            <Data name="Tsun_Cuirass.020UNPC Low" target="Tsun_Cuirass.020" local="true">UUNP - Goma - TsunTsun Hands B.osd\Tsun_Cuirass.020UNPC Low</Data>
+            <Data name="WolfGauntlets.001UNPC Low" target="WolfGauntlets.001" local="true">UUNP - Goma - TsunTsun Hands B.osd\WolfGauntlets.001UNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="HandsUNPC High" target="Hands">HandsUNPC High.bsd</Data>
+            <Data name="Tsun_Cuirass.020UNPC High" target="Tsun_Cuirass.020" local="true">UUNP - Goma - TsunTsun Hands B.osd\Tsun_Cuirass.020UNPC High</Data>
+            <Data name="WolfGauntlets.001UNPC High" target="WolfGauntlets.001" local="true">UUNP - Goma - TsunTsun Hands B.osd\WolfGauntlets.001UNPC High</Data>
+        </Slider>
+        <Slider name="UNPCM Low" invert="false" small="0" big="0">
+            <Data name="HandsUNPCM Low" target="Hands">HandsUNPCM Low.bsd</Data>
+            <Data name="Tsun_Cuirass.020UNPCM Low" target="Tsun_Cuirass.020" local="true">UUNP - Goma - TsunTsun Hands B.osd\Tsun_Cuirass.020UNPCM Low</Data>
+            <Data name="WolfGauntlets.001UNPCM Low" target="WolfGauntlets.001" local="true">UUNP - Goma - TsunTsun Hands B.osd\WolfGauntlets.001UNPCM Low</Data>
+        </Slider>
+        <Slider name="UNPCM High" invert="false" small="0" big="0">
+            <Data name="HandsUNPCM High" target="Hands">HandsUNPCM High.bsd</Data>
+            <Data name="Tsun_Cuirass.020UNPCM High" target="Tsun_Cuirass.020" local="true">UUNP - Goma - TsunTsun Hands B.osd\Tsun_Cuirass.020UNPCM High</Data>
+            <Data name="WolfGauntlets.001UNPCM High" target="WolfGauntlets.001" local="true">UUNP - Goma - TsunTsun Hands B.osd\WolfGauntlets.001UNPCM High</Data>
+        </Slider>
+        <Slider name="UNPSH Low" invert="false" small="0" big="0">
+            <Data name="HandsUNPSH Low" target="Hands">HandsUNPSH Low.bsd</Data>
+            <Data name="Tsun_Cuirass.020UNPSH Low" target="Tsun_Cuirass.020" local="true">UUNP - Goma - TsunTsun Hands B.osd\Tsun_Cuirass.020UNPSH Low</Data>
+            <Data name="WolfGauntlets.001UNPSH Low" target="WolfGauntlets.001" local="true">UUNP - Goma - TsunTsun Hands B.osd\WolfGauntlets.001UNPSH Low</Data>
+        </Slider>
+        <Slider name="UNPSH High" invert="false" small="0" big="0">
+            <Data name="HandsUNPSH High" target="Hands">HandsUNPSH High.bsd</Data>
+            <Data name="Tsun_Cuirass.020UNPSH High" target="Tsun_Cuirass.020" local="true">UUNP - Goma - TsunTsun Hands B.osd\Tsun_Cuirass.020UNPSH High</Data>
+            <Data name="WolfGauntlets.001UNPSH High" target="WolfGauntlets.001" local="true">UUNP - Goma - TsunTsun Hands B.osd\WolfGauntlets.001UNPSH High</Data>
+        </Slider>
+        <Slider name="UNPK Low" invert="false" small="0" big="0">
+            <Data name="HandsUNPK Low" target="Hands">HandsUNPK Low.bsd</Data>
+            <Data name="Tsun_Cuirass.020UNPK Low" target="Tsun_Cuirass.020" local="true">UUNP - Goma - TsunTsun Hands B.osd\Tsun_Cuirass.020UNPK Low</Data>
+            <Data name="WolfGauntlets.001UNPK Low" target="WolfGauntlets.001" local="true">UUNP - Goma - TsunTsun Hands B.osd\WolfGauntlets.001UNPK Low</Data>
+        </Slider>
+        <Slider name="UNPK High" invert="false" small="0" big="0">
+            <Data name="HandsUNPK High" target="Hands">HandsUNPK High.bsd</Data>
+            <Data name="Tsun_Cuirass.020UNPK High" target="Tsun_Cuirass.020" local="true">UUNP - Goma - TsunTsun Hands B.osd\Tsun_Cuirass.020UNPK High</Data>
+            <Data name="WolfGauntlets.001UNPK High" target="WolfGauntlets.001" local="true">UUNP - Goma - TsunTsun Hands B.osd\WolfGauntlets.001UNPK High</Data>
+        </Slider>
+        <Slider name="UNPK Bonus Low" invert="false" small="0" big="0">
+            <Data name="HandsUNPK Bonus Low" target="Hands">HandsUNPK Bonus Low.bsd</Data>
+            <Data name="Tsun_Cuirass.020UNPK Bonus Low" target="Tsun_Cuirass.020" local="true">UUNP - Goma - TsunTsun Hands B.osd\Tsun_Cuirass.020UNPK Bonus Low</Data>
+            <Data name="WolfGauntlets.001UNPK Bonus Low" target="WolfGauntlets.001" local="true">UUNP - Goma - TsunTsun Hands B.osd\WolfGauntlets.001UNPK Bonus Low</Data>
+        </Slider>
+        <Slider name="UNPK Bonus High" invert="false" small="0" big="0">
+            <Data name="HandsUNPK Bonus High" target="Hands">HandsUNPK Bonus High.bsd</Data>
+            <Data name="Tsun_Cuirass.020UNPK Bonus High" target="Tsun_Cuirass.020" local="true">UUNP - Goma - TsunTsun Hands B.osd\Tsun_Cuirass.020UNPK Bonus High</Data>
+            <Data name="WolfGauntlets.001UNPK Bonus High" target="WolfGauntlets.001" local="true">UUNP - Goma - TsunTsun Hands B.osd\WolfGauntlets.001UNPK Bonus High</Data>
+        </Slider>
+        <Slider name="UN7B Low" invert="false" small="0" big="0">
+            <Data name="HandsUN7B Low" target="Hands">HandsUN7B Low.bsd</Data>
+            <Data name="Tsun_Cuirass.020UN7B Low" target="Tsun_Cuirass.020" local="true">UUNP - Goma - TsunTsun Hands B.osd\Tsun_Cuirass.020UN7B Low</Data>
+            <Data name="WolfGauntlets.001UN7B Low" target="WolfGauntlets.001" local="true">UUNP - Goma - TsunTsun Hands B.osd\WolfGauntlets.001UN7B Low</Data>
+        </Slider>
+        <Slider name="UN7B High" invert="false" small="0" big="0">
+            <Data name="HandsUN7B High" target="Hands">HandsUN7B High.bsd</Data>
+            <Data name="Tsun_Cuirass.020UN7B High" target="Tsun_Cuirass.020" local="true">UUNP - Goma - TsunTsun Hands B.osd\Tsun_Cuirass.020UN7B High</Data>
+            <Data name="WolfGauntlets.001UN7B High" target="WolfGauntlets.001" local="true">UUNP - Goma - TsunTsun Hands B.osd\WolfGauntlets.001UN7B High</Data>
+        </Slider>
+        <Slider name="UNPBB Low" invert="false" small="0" big="0">
+            <Data name="HandsUNPBB Low" target="Hands">HandsUNPBB Low.bsd</Data>
+            <Data name="Tsun_Cuirass.020UNPBB Low" target="Tsun_Cuirass.020" local="true">UUNP - Goma - TsunTsun Hands B.osd\Tsun_Cuirass.020UNPBB Low</Data>
+            <Data name="WolfGauntlets.001UNPBB Low" target="WolfGauntlets.001" local="true">UUNP - Goma - TsunTsun Hands B.osd\WolfGauntlets.001UNPBB Low</Data>
+        </Slider>
+        <Slider name="UNPBB High" invert="false" small="0" big="0">
+            <Data name="HandsUNPBB High" target="Hands">HandsUNPBB High.bsd</Data>
+            <Data name="Tsun_Cuirass.020UNPBB High" target="Tsun_Cuirass.020" local="true">UUNP - Goma - TsunTsun Hands B.osd\Tsun_Cuirass.020UNPBB High</Data>
+            <Data name="WolfGauntlets.001UNPBB High" target="WolfGauntlets.001" local="true">UUNP - Goma - TsunTsun Hands B.osd\WolfGauntlets.001UNPBB High</Data>
+        </Slider>
+        <Slider name="Seraphim Low" invert="false" small="0" big="0">
+            <Data name="HandsSeraphim Low" target="Hands">HandsSeraphim Low.bsd</Data>
+            <Data name="Tsun_Cuirass.020Seraphim Low" target="Tsun_Cuirass.020" local="true">UUNP - Goma - TsunTsun Hands B.osd\Tsun_Cuirass.020Seraphim Low</Data>
+            <Data name="WolfGauntlets.001Seraphim Low" target="WolfGauntlets.001" local="true">UUNP - Goma - TsunTsun Hands B.osd\WolfGauntlets.001Seraphim Low</Data>
+        </Slider>
+        <Slider name="Seraphim High" invert="false" small="0" big="0">
+            <Data name="HandsSeraphim High" target="Hands">HandsSeraphim High.bsd</Data>
+            <Data name="Tsun_Cuirass.020Seraphim High" target="Tsun_Cuirass.020" local="true">UUNP - Goma - TsunTsun Hands B.osd\Tsun_Cuirass.020Seraphim High</Data>
+            <Data name="WolfGauntlets.001Seraphim High" target="WolfGauntlets.001" local="true">UUNP - Goma - TsunTsun Hands B.osd\WolfGauntlets.001Seraphim High</Data>
+        </Slider>
+        <Slider name="Demonfet Low" invert="false" small="0" big="0">
+            <Data name="HandsDemonfet Low" target="Hands">HandsDemonfet Low.bsd</Data>
+            <Data name="Tsun_Cuirass.020Demonfet Low" target="Tsun_Cuirass.020" local="true">UUNP - Goma - TsunTsun Hands B.osd\Tsun_Cuirass.020Demonfet Low</Data>
+            <Data name="WolfGauntlets.001Demonfet Low" target="WolfGauntlets.001" local="true">UUNP - Goma - TsunTsun Hands B.osd\WolfGauntlets.001Demonfet Low</Data>
+        </Slider>
+        <Slider name="Demonfet High" invert="false" small="0" big="0">
+            <Data name="HandsDemonfet High" target="Hands">HandsDemonfet High.bsd</Data>
+            <Data name="Tsun_Cuirass.020Demonfet High" target="Tsun_Cuirass.020" local="true">UUNP - Goma - TsunTsun Hands B.osd\Tsun_Cuirass.020Demonfet High</Data>
+            <Data name="WolfGauntlets.001Demonfet High" target="WolfGauntlets.001" local="true">UUNP - Goma - TsunTsun Hands B.osd\WolfGauntlets.001Demonfet High</Data>
+        </Slider>
+        <Slider name="Dream Girl Low" invert="false" small="0" big="0">
+            <Data name="HandsDream Girl Low" target="Hands">HandsDream Girl Low.bsd</Data>
+            <Data name="Tsun_Cuirass.020Dream Girl Low" target="Tsun_Cuirass.020" local="true">UUNP - Goma - TsunTsun Hands B.osd\Tsun_Cuirass.020Dream Girl Low</Data>
+            <Data name="WolfGauntlets.001Dream Girl Low" target="WolfGauntlets.001" local="true">UUNP - Goma - TsunTsun Hands B.osd\WolfGauntlets.001Dream Girl Low</Data>
+        </Slider>
+        <Slider name="Dream Girl High" invert="false" small="0" big="0">
+            <Data name="HandsDream Girl High" target="Hands">HandsDream Girl High.bsd</Data>
+            <Data name="Tsun_Cuirass.020Dream Girl High" target="Tsun_Cuirass.020" local="true">UUNP - Goma - TsunTsun Hands B.osd\Tsun_Cuirass.020Dream Girl High</Data>
+            <Data name="WolfGauntlets.001Dream Girl High" target="WolfGauntlets.001" local="true">UUNP - Goma - TsunTsun Hands B.osd\WolfGauntlets.001Dream Girl High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="HandsTop Model Low" target="Hands">HandsTop Model Low.bsd</Data>
+            <Data name="Tsun_Cuirass.020Top Model Low" target="Tsun_Cuirass.020" local="true">UUNP - Goma - TsunTsun Hands B.osd\Tsun_Cuirass.020Top Model Low</Data>
+            <Data name="WolfGauntlets.001Top Model Low" target="WolfGauntlets.001" local="true">UUNP - Goma - TsunTsun Hands B.osd\WolfGauntlets.001Top Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="HandsTop Model High" target="Hands">HandsTop Model High.bsd</Data>
+            <Data name="Tsun_Cuirass.020Top Model High" target="Tsun_Cuirass.020" local="true">UUNP - Goma - TsunTsun Hands B.osd\Tsun_Cuirass.020Top Model High</Data>
+            <Data name="WolfGauntlets.001Top Model High" target="WolfGauntlets.001" local="true">UUNP - Goma - TsunTsun Hands B.osd\WolfGauntlets.001Top Model High</Data>
+        </Slider>
+        <Slider name="Leito Low" invert="false" small="0" big="0">
+            <Data name="HandsLeito Low" target="Hands">HandsLeito Low.bsd</Data>
+            <Data name="Tsun_Cuirass.020Leito Low" target="Tsun_Cuirass.020" local="true">UUNP - Goma - TsunTsun Hands B.osd\Tsun_Cuirass.020Leito Low</Data>
+            <Data name="WolfGauntlets.001Leito Low" target="WolfGauntlets.001" local="true">UUNP - Goma - TsunTsun Hands B.osd\WolfGauntlets.001Leito Low</Data>
+        </Slider>
+        <Slider name="Leito High" invert="false" small="0" big="0">
+            <Data name="HandsLeito High" target="Hands">HandsLeito High.bsd</Data>
+            <Data name="Tsun_Cuirass.020Leito High" target="Tsun_Cuirass.020" local="true">UUNP - Goma - TsunTsun Hands B.osd\Tsun_Cuirass.020Leito High</Data>
+            <Data name="WolfGauntlets.001Leito High" target="WolfGauntlets.001" local="true">UUNP - Goma - TsunTsun Hands B.osd\WolfGauntlets.001Leito High</Data>
+        </Slider>
+        <Slider name="UNPF Low" invert="false" small="0" big="0">
+            <Data name="HandsUNPF Low" target="Hands">HandsUNPF Low.bsd</Data>
+            <Data name="Tsun_Cuirass.020UNPF Low" target="Tsun_Cuirass.020" local="true">UUNP - Goma - TsunTsun Hands B.osd\Tsun_Cuirass.020UNPF Low</Data>
+            <Data name="WolfGauntlets.001UNPF Low" target="WolfGauntlets.001" local="true">UUNP - Goma - TsunTsun Hands B.osd\WolfGauntlets.001UNPF Low</Data>
+        </Slider>
+        <Slider name="UNPF High" invert="false" small="0" big="0">
+            <Data name="HandsUNPF High" target="Hands">HandsUNPF High.bsd</Data>
+            <Data name="Tsun_Cuirass.020UNPF High" target="Tsun_Cuirass.020" local="true">UUNP - Goma - TsunTsun Hands B.osd\Tsun_Cuirass.020UNPF High</Data>
+            <Data name="WolfGauntlets.001UNPF High" target="WolfGauntlets.001" local="true">UUNP - Goma - TsunTsun Hands B.osd\WolfGauntlets.001UNPF High</Data>
+        </Slider>
+        <Slider name="UNPFx Low" invert="false" small="0" big="0">
+            <Data name="HandsUNPFx Low" target="Hands">HandsUNPFx Low.bsd</Data>
+            <Data name="Tsun_Cuirass.020UNPFx Low" target="Tsun_Cuirass.020" local="true">UUNP - Goma - TsunTsun Hands B.osd\Tsun_Cuirass.020UNPFx Low</Data>
+            <Data name="WolfGauntlets.001UNPFx Low" target="WolfGauntlets.001" local="true">UUNP - Goma - TsunTsun Hands B.osd\WolfGauntlets.001UNPFx Low</Data>
+        </Slider>
+        <Slider name="UNPFx High" invert="false" small="0" big="0">
+            <Data name="HandsUNPFx High" target="Hands">HandsUNPFx High.bsd</Data>
+            <Data name="Tsun_Cuirass.020UNPFx High" target="Tsun_Cuirass.020" local="true">UUNP - Goma - TsunTsun Hands B.osd\Tsun_Cuirass.020UNPFx High</Data>
+            <Data name="WolfGauntlets.001UNPFx High" target="WolfGauntlets.001" local="true">UUNP - Goma - TsunTsun Hands B.osd\WolfGauntlets.001UNPFx High</Data>
+        </Slider>
+        <Slider name="CNHF Low" invert="false" small="0" big="0">
+            <Data name="HandsCNHF Low" target="Hands">HandsCNHF Low.bsd</Data>
+            <Data name="Tsun_Cuirass.020CNHF Low" target="Tsun_Cuirass.020" local="true">UUNP - Goma - TsunTsun Hands B.osd\Tsun_Cuirass.020CNHF Low</Data>
+            <Data name="WolfGauntlets.001CNHF Low" target="WolfGauntlets.001" local="true">UUNP - Goma - TsunTsun Hands B.osd\WolfGauntlets.001CNHF Low</Data>
+        </Slider>
+        <Slider name="CNHF High" invert="false" small="0" big="0">
+            <Data name="HandsCNHF High" target="Hands">HandsCNHF High.bsd</Data>
+            <Data name="Tsun_Cuirass.020CNHF High" target="Tsun_Cuirass.020" local="true">UUNP - Goma - TsunTsun Hands B.osd\Tsun_Cuirass.020CNHF High</Data>
+            <Data name="WolfGauntlets.001CNHF High" target="WolfGauntlets.001" local="true">UUNP - Goma - TsunTsun Hands B.osd\WolfGauntlets.001CNHF High</Data>
+        </Slider>
+        <Slider name="CNHF Bonus Low" invert="false" small="0" big="0">
+            <Data name="HandsCNHF Bonus Low" target="Hands">HandsCNHF Bonus Low.bsd</Data>
+            <Data name="Tsun_Cuirass.020CNHF Bonus Low" target="Tsun_Cuirass.020" local="true">UUNP - Goma - TsunTsun Hands B.osd\Tsun_Cuirass.020CNHF Bonus Low</Data>
+            <Data name="WolfGauntlets.001CNHF Bonus Low" target="WolfGauntlets.001" local="true">UUNP - Goma - TsunTsun Hands B.osd\WolfGauntlets.001CNHF Bonus Low</Data>
+        </Slider>
+        <Slider name="CNHF Bonus High" invert="false" small="0" big="0">
+            <Data name="HandsCNHF Bonus High" target="Hands">HandsCNHF Bonus High.bsd</Data>
+            <Data name="Tsun_Cuirass.020CNHF Bonus High" target="Tsun_Cuirass.020" local="true">UUNP - Goma - TsunTsun Hands B.osd\Tsun_Cuirass.020CNHF Bonus High</Data>
+            <Data name="WolfGauntlets.001CNHF Bonus High" target="WolfGauntlets.001" local="true">UUNP - Goma - TsunTsun Hands B.osd\WolfGauntlets.001CNHF Bonus High</Data>
+        </Slider>
+        <Slider name="MCBM Low" invert="false" small="0" big="0">
+            <Data name="HandsMCBM Low" target="Hands">HandsMCBM Low.bsd</Data>
+            <Data name="Tsun_Cuirass.020MCBM Low" target="Tsun_Cuirass.020" local="true">UUNP - Goma - TsunTsun Hands B.osd\Tsun_Cuirass.020MCBM Low</Data>
+            <Data name="WolfGauntlets.001MCBM Low" target="WolfGauntlets.001" local="true">UUNP - Goma - TsunTsun Hands B.osd\WolfGauntlets.001MCBM Low</Data>
+        </Slider>
+        <Slider name="MCBM High" invert="false" small="0" big="0">
+            <Data name="HandsMCBM High" target="Hands">HandsMCBM High.bsd</Data>
+            <Data name="Tsun_Cuirass.020MCBM High" target="Tsun_Cuirass.020" local="true">UUNP - Goma - TsunTsun Hands B.osd\Tsun_Cuirass.020MCBM High</Data>
+            <Data name="WolfGauntlets.001MCBM High" target="WolfGauntlets.001" local="true">UUNP - Goma - TsunTsun Hands B.osd\WolfGauntlets.001MCBM High</Data>
+        </Slider>
+        <Slider name="Venus Low" invert="false" small="0" big="0">
+            <Data name="HandsVenus Low" target="Hands">HandsVenus Low.bsd</Data>
+            <Data name="Tsun_Cuirass.020Venus Low" target="Tsun_Cuirass.020" local="true">UUNP - Goma - TsunTsun Hands B.osd\Tsun_Cuirass.020Venus Low</Data>
+            <Data name="WolfGauntlets.001Venus Low" target="WolfGauntlets.001" local="true">UUNP - Goma - TsunTsun Hands B.osd\WolfGauntlets.001Venus Low</Data>
+        </Slider>
+        <Slider name="Venus High" invert="false" small="0" big="0">
+            <Data name="HandsVenus High" target="Hands">HandsVenus High.bsd</Data>
+            <Data name="Tsun_Cuirass.020Venus High" target="Tsun_Cuirass.020" local="true">UUNP - Goma - TsunTsun Hands B.osd\Tsun_Cuirass.020Venus High</Data>
+            <Data name="WolfGauntlets.001Venus High" target="WolfGauntlets.001" local="true">UUNP - Goma - TsunTsun Hands B.osd\WolfGauntlets.001Venus High</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 Low" invert="false" small="0" big="0">
+            <Data name="HandsZGGB-R2 Low" target="Hands">HandsZGGB-R2 Low.bsd</Data>
+            <Data name="Tsun_Cuirass.020ZGGB-R2 Low" target="Tsun_Cuirass.020" local="true">UUNP - Goma - TsunTsun Hands B.osd\Tsun_Cuirass.020ZGGB-R2 Low</Data>
+            <Data name="WolfGauntlets.001ZGGB-R2 Low" target="WolfGauntlets.001" local="true">UUNP - Goma - TsunTsun Hands B.osd\WolfGauntlets.001ZGGB-R2 Low</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 High" invert="false" small="0" big="0">
+            <Data name="HandsZGGB-R2 High" target="Hands">HandsZGGB-R2 High.bsd</Data>
+            <Data name="Tsun_Cuirass.020ZGGB-R2 High" target="Tsun_Cuirass.020" local="true">UUNP - Goma - TsunTsun Hands B.osd\Tsun_Cuirass.020ZGGB-R2 High</Data>
+            <Data name="WolfGauntlets.001ZGGB-R2 High" target="WolfGauntlets.001" local="true">UUNP - Goma - TsunTsun Hands B.osd\WolfGauntlets.001ZGGB-R2 High</Data>
+        </Slider>
+        <Slider name="Manga Low" invert="false" small="0" big="0">
+            <Data name="HandsManga Low" target="Hands">HandsManga Low.bsd</Data>
+            <Data name="Tsun_Cuirass.020Manga Low" target="Tsun_Cuirass.020" local="true">UUNP - Goma - TsunTsun Hands B.osd\Tsun_Cuirass.020Manga Low</Data>
+            <Data name="WolfGauntlets.001Manga Low" target="WolfGauntlets.001" local="true">UUNP - Goma - TsunTsun Hands B.osd\WolfGauntlets.001Manga Low</Data>
+        </Slider>
+        <Slider name="Manga High" invert="false" small="0" big="0">
+            <Data name="HandsManga High" target="Hands">HandsManga High.bsd</Data>
+            <Data name="Tsun_Cuirass.020Manga High" target="Tsun_Cuirass.020" local="true">UUNP - Goma - TsunTsun Hands B.osd\Tsun_Cuirass.020Manga High</Data>
+            <Data name="WolfGauntlets.001Manga High" target="WolfGauntlets.001" local="true">UUNP - Goma - TsunTsun Hands B.osd\WolfGauntlets.001Manga High</Data>
+        </Slider>
+        <Slider name="CHSBHC Low" invert="false" small="0" big="0">
+            <Data name="HandsCHSBHC Low" target="Hands">HandsCHSBHC Low.bsd</Data>
+            <Data name="Tsun_Cuirass.020CHSBHC Low" target="Tsun_Cuirass.020" local="true">UUNP - Goma - TsunTsun Hands B.osd\Tsun_Cuirass.020CHSBHC Low</Data>
+            <Data name="WolfGauntlets.001CHSBHC Low" target="WolfGauntlets.001" local="true">UUNP - Goma - TsunTsun Hands B.osd\WolfGauntlets.001CHSBHC Low</Data>
+        </Slider>
+        <Slider name="CHSBHC High" invert="false" small="0" big="0">
+            <Data name="HandsCHSBHC High" target="Hands">HandsCHSBHC High.bsd</Data>
+            <Data name="Tsun_Cuirass.020CHSBHC High" target="Tsun_Cuirass.020" local="true">UUNP - Goma - TsunTsun Hands B.osd\Tsun_Cuirass.020CHSBHC High</Data>
+            <Data name="WolfGauntlets.001CHSBHC High" target="WolfGauntlets.001" local="true">UUNP - Goma - TsunTsun Hands B.osd\WolfGauntlets.001CHSBHC High</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

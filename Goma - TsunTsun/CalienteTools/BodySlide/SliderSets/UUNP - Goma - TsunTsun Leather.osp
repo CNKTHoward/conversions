@@ -1,0 +1,393 @@
+<SliderSetInfo version="1">
+    <SliderSet name="UUNP - Goma - TsunTsun Leather">
+        <DataFolder>UUNP - Goma - TsunTsun Leather</DataFolder>
+        <SourceFile>UUNP - Goma - TsunTsun Leather.nif</SourceFile>
+        <OutputPath>meshes\Armor\Goma\Tsuntsun</OutputPath>
+        <OutputFile GenWeights="true">leather</OutputFile>
+        <Shape target="Tsun_Cuirass.018">Tsun_Cuirass.018</Shape>
+        <Shape target="Tsun_Cuirass.019">Tsun_Cuirass.019</Shape>
+        <Slider name="BreastsSmall" invert="true" small="100" big="100">
+            <Data name="Tsun_Cuirass.019BreastsSmall" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.019BreastsSmall</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.018BigTorso" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.018BigTorso</Data>
+            <Data name="Tsun_Cuirass.019BigTorso" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.019BigTorso</Data>
+        </Slider>
+        <Slider name="Waist" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.018Waist" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.018Waist</Data>
+            <Data name="Tsun_Cuirass.019Waist" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.019Waist</Data>
+        </Slider>
+        <Slider name="ChubbyWaist" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.018ChubbyWaist" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.018ChubbyWaist</Data>
+            <Data name="Tsun_Cuirass.019ChubbyWaist" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.019ChubbyWaist</Data>
+        </Slider>
+        <Slider name="Belly" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.019Belly" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.019Belly</Data>
+        </Slider>
+        <Slider name="BigBelly" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.019BigBelly" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.019BigBelly</Data>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.019PregnancyBelly" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.019PregnancyBelly</Data>
+        </Slider>
+        <Slider name="TummyTuck" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.019TummyTuck" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.019TummyTuck</Data>
+        </Slider>
+        <Slider name="Back" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.018Back" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.018Back</Data>
+        </Slider>
+        <Slider name="Hipbone" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.018Hipbone" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.018Hipbone</Data>
+            <Data name="Tsun_Cuirass.019Hipbone" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.019Hipbone</Data>
+        </Slider>
+        <Slider name="Hips" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.018Hips" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.018Hips</Data>
+            <Data name="Tsun_Cuirass.019Hips" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.019Hips</Data>
+        </Slider>
+        <Slider name="ButtCrack" invert="true" small="100" big="100">
+            <Data name="Tsun_Cuirass.018ButtCrack" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.018ButtCrack</Data>
+        </Slider>
+        <Slider name="Butt" invert="true" small="100" big="100">
+            <Data name="Tsun_Cuirass.018Butt" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.018Butt</Data>
+            <Data name="Tsun_Cuirass.019Butt" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.019Butt</Data>
+        </Slider>
+        <Slider name="ButtSmall" invert="true" small="100" big="100">
+            <Data name="Tsun_Cuirass.018ButtSmall" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.018ButtSmall</Data>
+            <Data name="Tsun_Cuirass.019ButtSmall" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.019ButtSmall</Data>
+        </Slider>
+        <Slider name="ButtShape2" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.018ButtShape2" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.018ButtShape2</Data>
+            <Data name="Tsun_Cuirass.019ButtShape2" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.019ButtShape2</Data>
+        </Slider>
+        <Slider name="BigButt" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.018BigButt" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.018BigButt</Data>
+            <Data name="Tsun_Cuirass.019BigButt" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.019BigButt</Data>
+        </Slider>
+        <Slider name="ChubbyButt" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.018ChubbyButt" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.018ChubbyButt</Data>
+            <Data name="Tsun_Cuirass.019ChubbyButt" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.019ChubbyButt</Data>
+        </Slider>
+        <Slider name="AppleCheeks" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.018AppleCheeks" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.018AppleCheeks</Data>
+        </Slider>
+        <Slider name="RoundAss" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.018RoundAss" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.018RoundAss</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.018SlimThighs" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.018SlimThighs</Data>
+            <Data name="Tsun_Cuirass.019SlimThighs" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.019SlimThighs</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.018Thighs" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.018Thighs</Data>
+            <Data name="Tsun_Cuirass.019Thighs" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.019Thighs</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.018ChubbyLegs" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.018ChubbyLegs</Data>
+            <Data name="Tsun_Cuirass.019ChubbyLegs" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.019ChubbyLegs</Data>
+        </Slider>
+        <Slider name="Legs" invert="true" small="100" big="100">
+            <Data name="Tsun_Cuirass.018Legs" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.018Legs</Data>
+            <Data name="Tsun_Cuirass.019Legs" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.019Legs</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.018KneeHeight" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.018KneeHeight</Data>
+            <Data name="Tsun_Cuirass.019KneeHeight" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.019KneeHeight</Data>
+        </Slider>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.0187B Low" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.0187B Low</Data>
+            <Data name="Tsun_Cuirass.0197B Low" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.0197B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.0187B High" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.0187B High</Data>
+            <Data name="Tsun_Cuirass.0197B High" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.0197B High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.0187B Bombshell Low" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.0187B Bombshell Low</Data>
+            <Data name="Tsun_Cuirass.0197B Bombshell Low" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.0197B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.0187B Bombshell High" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.0187B Bombshell High</Data>
+            <Data name="Tsun_Cuirass.0197B Bombshell High" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.0197B Bombshell High</Data>
+        </Slider>
+        <Slider name="7B Natural Low" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.0187B Natural Low" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.0187B Natural Low</Data>
+            <Data name="Tsun_Cuirass.0197B Natural Low" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.0197B Natural Low</Data>
+        </Slider>
+        <Slider name="7B Natural High" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.0187B Natural High" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.0187B Natural High</Data>
+            <Data name="Tsun_Cuirass.0197B Natural High" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.0197B Natural High</Data>
+        </Slider>
+        <Slider name="7B Cleavage Low" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.0187B Cleavage Low" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.0187B Cleavage Low</Data>
+            <Data name="Tsun_Cuirass.0197B Cleavage Low" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.0197B Cleavage Low</Data>
+        </Slider>
+        <Slider name="7B Cleavage High" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.0187B Cleavage High" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.0187B Cleavage High</Data>
+            <Data name="Tsun_Cuirass.0197B Cleavage High" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.0197B Cleavage High</Data>
+        </Slider>
+        <Slider name="7B BCup Low" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.0187B BCup Low" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.0187B BCup Low</Data>
+            <Data name="Tsun_Cuirass.0197B BCup Low" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.0197B BCup Low</Data>
+        </Slider>
+        <Slider name="7B BCup High" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.0187B BCup High" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.0187B BCup High</Data>
+            <Data name="Tsun_Cuirass.0197B BCup High" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.0197B BCup High</Data>
+        </Slider>
+        <Slider name="7BUNP Low" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.0187BUNP Low" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.0187BUNP Low</Data>
+            <Data name="Tsun_Cuirass.0197BUNP Low" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.0197BUNP Low</Data>
+        </Slider>
+        <Slider name="7BUNP High" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.0187BUNP High" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.0187BUNP High</Data>
+            <Data name="Tsun_Cuirass.0197BUNP High" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.0197BUNP High</Data>
+        </Slider>
+        <Slider name="7B Oppai Low" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.0187B Oppai Low" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.0187B Oppai Low</Data>
+            <Data name="Tsun_Cuirass.0197B Oppai Low" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.0197B Oppai Low</Data>
+        </Slider>
+        <Slider name="7B Oppai High" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.0187B Oppai High" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.0187B Oppai High</Data>
+            <Data name="Tsun_Cuirass.0197B Oppai High" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.0197B Oppai High</Data>
+        </Slider>
+        <Slider name="7B CH Low" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.0187B CH Low" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.0187B CH Low</Data>
+            <Data name="Tsun_Cuirass.0197B CH Low" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.0197B CH Low</Data>
+        </Slider>
+        <Slider name="7B CH High" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.0187B CH High" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.0187B CH High</Data>
+            <Data name="Tsun_Cuirass.0197B CH High" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.0197B CH High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.018UNP Low" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.018UNP Low</Data>
+            <Data name="Tsun_Cuirass.019UNP Low" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.019UNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.018UNP High" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.018UNP High</Data>
+            <Data name="Tsun_Cuirass.019UNP High" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.019UNP High</Data>
+        </Slider>
+        <Slider name="UNP Pushup Low" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.018UNP Pushup Low" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.018UNP Pushup Low</Data>
+            <Data name="Tsun_Cuirass.019UNP Pushup Low" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.019UNP Pushup Low</Data>
+        </Slider>
+        <Slider name="UNP Pushup High" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.018UNP Pushup High" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.018UNP Pushup High</Data>
+            <Data name="Tsun_Cuirass.019UNP Pushup High" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.019UNP Pushup High</Data>
+        </Slider>
+        <Slider name="UNP Skinny Low" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.018UNP Skinny Low" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.018UNP Skinny Low</Data>
+            <Data name="Tsun_Cuirass.019UNP Skinny Low" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.019UNP Skinny Low</Data>
+        </Slider>
+        <Slider name="UNP Skinny High" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.018UNP Skinny High" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.018UNP Skinny High</Data>
+            <Data name="Tsun_Cuirass.019UNP Skinny High" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.019UNP Skinny High</Data>
+        </Slider>
+        <Slider name="UNP Perky Low" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.018UNP Perky Low" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.018UNP Perky Low</Data>
+            <Data name="Tsun_Cuirass.019UNP Perky Low" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.019UNP Perky Low</Data>
+        </Slider>
+        <Slider name="UNP Perky High" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.018UNP Perky High" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.018UNP Perky High</Data>
+            <Data name="Tsun_Cuirass.019UNP Perky High" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.019UNP Perky High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.018UNPB Low" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.018UNPB Low</Data>
+            <Data name="Tsun_Cuirass.019UNPB Low" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.019UNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.018UNPB High" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.018UNPB High</Data>
+            <Data name="Tsun_Cuirass.019UNPB High" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.019UNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Chapi" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.018UNPB Chapi" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.018UNPB Chapi</Data>
+            <Data name="Tsun_Cuirass.019UNPB Chapi" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.019UNPB Chapi</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v1" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.018UNPB Oppai v1" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.018UNPB Oppai v1</Data>
+            <Data name="Tsun_Cuirass.019UNPB Oppai v1" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.019UNPB Oppai v1</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.018UNPB Oppai v3.2 Low" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.018UNPB Oppai v3.2 Low</Data>
+            <Data name="Tsun_Cuirass.019UNPB Oppai v3.2 Low" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.019UNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.018UNPB Oppai v3.2 High" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.018UNPB Oppai v3.2 High</Data>
+            <Data name="Tsun_Cuirass.019UNPB Oppai v3.2 High" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.019UNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPetite Low" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.018UNPetite Low" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.018UNPetite Low</Data>
+            <Data name="Tsun_Cuirass.019UNPetite Low" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.019UNPetite Low</Data>
+        </Slider>
+        <Slider name="UNPetite High" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.018UNPetite High" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.018UNPetite High</Data>
+            <Data name="Tsun_Cuirass.019UNPetite High" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.019UNPetite High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.018UNPC Low" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.018UNPC Low</Data>
+            <Data name="Tsun_Cuirass.019UNPC Low" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.019UNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.018UNPC High" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.018UNPC High</Data>
+            <Data name="Tsun_Cuirass.019UNPC High" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.019UNPC High</Data>
+        </Slider>
+        <Slider name="UNPCM Low" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.018UNPCM Low" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.018UNPCM Low</Data>
+            <Data name="Tsun_Cuirass.019UNPCM Low" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.019UNPCM Low</Data>
+        </Slider>
+        <Slider name="UNPCM High" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.018UNPCM High" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.018UNPCM High</Data>
+            <Data name="Tsun_Cuirass.019UNPCM High" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.019UNPCM High</Data>
+        </Slider>
+        <Slider name="UNPSH Low" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.018UNPSH Low" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.018UNPSH Low</Data>
+            <Data name="Tsun_Cuirass.019UNPSH Low" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.019UNPSH Low</Data>
+        </Slider>
+        <Slider name="UNPSH High" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.018UNPSH High" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.018UNPSH High</Data>
+            <Data name="Tsun_Cuirass.019UNPSH High" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.019UNPSH High</Data>
+        </Slider>
+        <Slider name="UNPK Low" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.018UNPK Low" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.018UNPK Low</Data>
+            <Data name="Tsun_Cuirass.019UNPK Low" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.019UNPK Low</Data>
+        </Slider>
+        <Slider name="UNPK High" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.018UNPK High" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.018UNPK High</Data>
+            <Data name="Tsun_Cuirass.019UNPK High" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.019UNPK High</Data>
+        </Slider>
+        <Slider name="UNPK Bonus Low" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.018UNPK Bonus Low" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.018UNPK Bonus Low</Data>
+            <Data name="Tsun_Cuirass.019UNPK Bonus Low" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.019UNPK Bonus Low</Data>
+        </Slider>
+        <Slider name="UNPK Bonus High" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.018UNPK Bonus High" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.018UNPK Bonus High</Data>
+            <Data name="Tsun_Cuirass.019UNPK Bonus High" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.019UNPK Bonus High</Data>
+        </Slider>
+        <Slider name="UN7B Low" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.018UN7B Low" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.018UN7B Low</Data>
+            <Data name="Tsun_Cuirass.019UN7B Low" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.019UN7B Low</Data>
+        </Slider>
+        <Slider name="UN7B High" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.018UN7B High" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.018UN7B High</Data>
+            <Data name="Tsun_Cuirass.019UN7B High" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.019UN7B High</Data>
+        </Slider>
+        <Slider name="UNPBB Low" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.018UNPBB Low" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.018UNPBB Low</Data>
+            <Data name="Tsun_Cuirass.019UNPBB Low" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.019UNPBB Low</Data>
+        </Slider>
+        <Slider name="UNPBB High" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.018UNPBB High" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.018UNPBB High</Data>
+            <Data name="Tsun_Cuirass.019UNPBB High" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.019UNPBB High</Data>
+        </Slider>
+        <Slider name="Seraphim Low" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.018Seraphim Low" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.018Seraphim Low</Data>
+            <Data name="Tsun_Cuirass.019Seraphim Low" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.019Seraphim Low</Data>
+        </Slider>
+        <Slider name="Seraphim High" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.018Seraphim High" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.018Seraphim High</Data>
+            <Data name="Tsun_Cuirass.019Seraphim High" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.019Seraphim High</Data>
+        </Slider>
+        <Slider name="Demonfet Low" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.018Demonfet Low" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.018Demonfet Low</Data>
+            <Data name="Tsun_Cuirass.019Demonfet Low" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.019Demonfet Low</Data>
+        </Slider>
+        <Slider name="Demonfet High" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.018Demonfet High" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.018Demonfet High</Data>
+            <Data name="Tsun_Cuirass.019Demonfet High" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.019Demonfet High</Data>
+        </Slider>
+        <Slider name="Dream Girl Low" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.018Dream Girl Low" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.018Dream Girl Low</Data>
+            <Data name="Tsun_Cuirass.019Dream Girl Low" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.019Dream Girl Low</Data>
+        </Slider>
+        <Slider name="Dream Girl High" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.018Dream Girl High" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.018Dream Girl High</Data>
+            <Data name="Tsun_Cuirass.019Dream Girl High" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.019Dream Girl High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.018Top Model Low" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.018Top Model Low</Data>
+            <Data name="Tsun_Cuirass.019Top Model Low" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.019Top Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.018Top Model High" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.018Top Model High</Data>
+            <Data name="Tsun_Cuirass.019Top Model High" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.019Top Model High</Data>
+        </Slider>
+        <Slider name="Leito Low" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.018Leito Low" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.018Leito Low</Data>
+            <Data name="Tsun_Cuirass.019Leito Low" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.019Leito Low</Data>
+        </Slider>
+        <Slider name="Leito High" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.018Leito High" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.018Leito High</Data>
+            <Data name="Tsun_Cuirass.019Leito High" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.019Leito High</Data>
+        </Slider>
+        <Slider name="UNPF Low" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.018UNPF Low" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.018UNPF Low</Data>
+            <Data name="Tsun_Cuirass.019UNPF Low" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.019UNPF Low</Data>
+        </Slider>
+        <Slider name="UNPF High" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.018UNPF High" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.018UNPF High</Data>
+            <Data name="Tsun_Cuirass.019UNPF High" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.019UNPF High</Data>
+        </Slider>
+        <Slider name="UNPFx Low" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.018UNPFx Low" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.018UNPFx Low</Data>
+            <Data name="Tsun_Cuirass.019UNPFx Low" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.019UNPFx Low</Data>
+        </Slider>
+        <Slider name="UNPFx High" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.018UNPFx High" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.018UNPFx High</Data>
+            <Data name="Tsun_Cuirass.019UNPFx High" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.019UNPFx High</Data>
+        </Slider>
+        <Slider name="CNHF Low" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.018CNHF Low" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.018CNHF Low</Data>
+            <Data name="Tsun_Cuirass.019CNHF Low" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.019CNHF Low</Data>
+        </Slider>
+        <Slider name="CNHF High" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.018CNHF High" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.018CNHF High</Data>
+            <Data name="Tsun_Cuirass.019CNHF High" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.019CNHF High</Data>
+        </Slider>
+        <Slider name="CNHF Bonus Low" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.018CNHF Bonus Low" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.018CNHF Bonus Low</Data>
+            <Data name="Tsun_Cuirass.019CNHF Bonus Low" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.019CNHF Bonus Low</Data>
+        </Slider>
+        <Slider name="CNHF Bonus High" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.018CNHF Bonus High" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.018CNHF Bonus High</Data>
+            <Data name="Tsun_Cuirass.019CNHF Bonus High" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.019CNHF Bonus High</Data>
+        </Slider>
+        <Slider name="MCBM Low" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.018MCBM Low" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.018MCBM Low</Data>
+            <Data name="Tsun_Cuirass.019MCBM Low" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.019MCBM Low</Data>
+        </Slider>
+        <Slider name="MCBM High" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.018MCBM High" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.018MCBM High</Data>
+            <Data name="Tsun_Cuirass.019MCBM High" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.019MCBM High</Data>
+        </Slider>
+        <Slider name="Venus Low" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.018Venus Low" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.018Venus Low</Data>
+            <Data name="Tsun_Cuirass.019Venus Low" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.019Venus Low</Data>
+        </Slider>
+        <Slider name="Venus High" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.018Venus High" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.018Venus High</Data>
+            <Data name="Tsun_Cuirass.019Venus High" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.019Venus High</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 Low" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.018ZGGB-R2 Low" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.018ZGGB-R2 Low</Data>
+            <Data name="Tsun_Cuirass.019ZGGB-R2 Low" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.019ZGGB-R2 Low</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 High" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.018ZGGB-R2 High" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.018ZGGB-R2 High</Data>
+            <Data name="Tsun_Cuirass.019ZGGB-R2 High" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.019ZGGB-R2 High</Data>
+        </Slider>
+        <Slider name="Manga Low" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.018Manga Low" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.018Manga Low</Data>
+            <Data name="Tsun_Cuirass.019Manga Low" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.019Manga Low</Data>
+        </Slider>
+        <Slider name="Manga High" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.018Manga High" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.018Manga High</Data>
+            <Data name="Tsun_Cuirass.019Manga High" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.019Manga High</Data>
+        </Slider>
+        <Slider name="CHSBHC Low" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.018CHSBHC Low" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.018CHSBHC Low</Data>
+            <Data name="Tsun_Cuirass.019CHSBHC Low" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.019CHSBHC Low</Data>
+        </Slider>
+        <Slider name="CHSBHC High" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.018CHSBHC High" target="Tsun_Cuirass.018" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.018CHSBHC High</Data>
+            <Data name="Tsun_Cuirass.019CHSBHC High" target="Tsun_Cuirass.019" local="true">UUNP - Goma - TsunTsun Leather.osd\Tsun_Cuirass.019CHSBHC High</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

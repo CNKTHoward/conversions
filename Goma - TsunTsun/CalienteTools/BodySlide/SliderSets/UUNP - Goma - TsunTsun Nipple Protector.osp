@@ -1,0 +1,300 @@
+<SliderSetInfo version="1">
+    <SliderSet name="UUNP - Goma - TsunTsun Nipple Protector">
+        <DataFolder>UUNP - Goma - TsunTsun Nipple Protector</DataFolder>
+        <SourceFile>UUNP - Goma - TsunTsun Nipple Protector.nif</SourceFile>
+        <OutputPath>meshes\Armor\Goma\Tsuntsun</OutputPath>
+        <OutputFile GenWeights="true">NippleProtector</OutputFile>
+        <Shape target="Tsun_Cuirass.025">Tsun_Cuirass.025</Shape>
+        <Slider name="Breasts" invert="true" small="100" big="100">
+            <Data name="Tsun_Cuirass.025Breasts" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025Breasts</Data>
+        </Slider>
+        <Slider name="BreastsSmall" invert="true" small="100" big="100">
+            <Data name="Tsun_Cuirass.025BreastsSmall" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025BreastsSmall</Data>
+        </Slider>
+        <Slider name="BreastsSH" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.025BreastsSH" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025BreastsSH</Data>
+        </Slider>
+        <Slider name="BreastsSSH" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.025BreastsSSH" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025BreastsSSH</Data>
+        </Slider>
+        <Slider name="BreastsFantasy" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.025BreastsFantasy" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025BreastsFantasy</Data>
+        </Slider>
+        <Slider name="DoubleMelon" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.025DoubleMelon" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025DoubleMelon</Data>
+        </Slider>
+        <Slider name="BreastCleavage" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.025BreastCleavage" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025BreastCleavage</Data>
+        </Slider>
+        <Slider name="BreastFlatness" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.025BreastFlatness" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025BreastFlatness</Data>
+        </Slider>
+        <Slider name="BreastGravity" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.025BreastGravity" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025BreastGravity</Data>
+        </Slider>
+        <Slider name="PushUp" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.025PushUp" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025PushUp</Data>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.025BreastHeight" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025BreastHeight</Data>
+        </Slider>
+        <Slider name="BreastPerkiness" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.025BreastPerkiness" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025BreastPerkiness</Data>
+        </Slider>
+        <Slider name="BreastWidth" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.025BreastWidth" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025BreastWidth</Data>
+        </Slider>
+        <Slider name="NippleDistance" invert="true" small="100" big="100">
+            <Data name="Tsun_Cuirass.025NippleDistance" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025NippleDistance</Data>
+        </Slider>
+        <Slider name="NipplePerkiness" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.025NipplePerkiness" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025NipplePerkiness</Data>
+        </Slider>
+        <Slider name="NippleLength" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.025NippleLength" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025NippleLength</Data>
+        </Slider>
+        <Slider name="NippleSize" invert="true" small="100" big="100">
+            <Data name="Tsun_Cuirass.025NippleSize" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025NippleSize</Data>
+        </Slider>
+        <Slider name="NippleAreola" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.025NippleAreola" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025NippleAreola</Data>
+        </Slider>
+        <Slider name="NippleUp" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.025NippleUp" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025NippleUp</Data>
+        </Slider>
+        <Slider name="NippleDown" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.025NippleDown" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025NippleDown</Data>
+        </Slider>
+        <Slider name="NippleTip" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.025NippleTip" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025NippleTip</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.025BigTorso" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025BigTorso</Data>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.025PregnancyBelly" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025PregnancyBelly</Data>
+        </Slider>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.0257B Low" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.0257B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.0257B High" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.0257B High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.0257B Bombshell Low" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.0257B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.0257B Bombshell High" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.0257B Bombshell High</Data>
+        </Slider>
+        <Slider name="7B Natural Low" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.0257B Natural Low" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.0257B Natural Low</Data>
+        </Slider>
+        <Slider name="7B Natural High" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.0257B Natural High" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.0257B Natural High</Data>
+        </Slider>
+        <Slider name="7B Cleavage Low" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.0257B Cleavage Low" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.0257B Cleavage Low</Data>
+        </Slider>
+        <Slider name="7B Cleavage High" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.0257B Cleavage High" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.0257B Cleavage High</Data>
+        </Slider>
+        <Slider name="7B BCup Low" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.0257B BCup Low" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.0257B BCup Low</Data>
+        </Slider>
+        <Slider name="7B BCup High" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.0257B BCup High" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.0257B BCup High</Data>
+        </Slider>
+        <Slider name="7BUNP Low" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.0257BUNP Low" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.0257BUNP Low</Data>
+        </Slider>
+        <Slider name="7BUNP High" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.0257BUNP High" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.0257BUNP High</Data>
+        </Slider>
+        <Slider name="7B Oppai Low" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.0257B Oppai Low" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.0257B Oppai Low</Data>
+        </Slider>
+        <Slider name="7B Oppai High" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.0257B Oppai High" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.0257B Oppai High</Data>
+        </Slider>
+        <Slider name="7B CH Low" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.0257B CH Low" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.0257B CH Low</Data>
+        </Slider>
+        <Slider name="7B CH High" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.0257B CH High" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.0257B CH High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.025UNP Low" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025UNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.025UNP High" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025UNP High</Data>
+        </Slider>
+        <Slider name="UNP Pushup Low" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.025UNP Pushup Low" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025UNP Pushup Low</Data>
+        </Slider>
+        <Slider name="UNP Pushup High" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.025UNP Pushup High" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025UNP Pushup High</Data>
+        </Slider>
+        <Slider name="UNP Skinny Low" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.025UNP Skinny Low" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025UNP Skinny Low</Data>
+        </Slider>
+        <Slider name="UNP Skinny High" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.025UNP Skinny High" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025UNP Skinny High</Data>
+        </Slider>
+        <Slider name="UNP Perky Low" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.025UNP Perky Low" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025UNP Perky Low</Data>
+        </Slider>
+        <Slider name="UNP Perky High" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.025UNP Perky High" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025UNP Perky High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.025UNPB Low" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025UNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.025UNPB High" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025UNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Chapi" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.025UNPB Chapi" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025UNPB Chapi</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v1" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.025UNPB Oppai v1" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025UNPB Oppai v1</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.025UNPB Oppai v3.2 Low" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025UNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.025UNPB Oppai v3.2 High" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025UNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPetite Low" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.025UNPetite Low" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025UNPetite Low</Data>
+        </Slider>
+        <Slider name="UNPetite High" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.025UNPetite High" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025UNPetite High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.025UNPC Low" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025UNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.025UNPC High" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025UNPC High</Data>
+        </Slider>
+        <Slider name="UNPCM Low" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.025UNPCM Low" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025UNPCM Low</Data>
+        </Slider>
+        <Slider name="UNPCM High" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.025UNPCM High" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025UNPCM High</Data>
+        </Slider>
+        <Slider name="UNPSH Low" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.025UNPSH Low" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025UNPSH Low</Data>
+        </Slider>
+        <Slider name="UNPSH High" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.025UNPSH High" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025UNPSH High</Data>
+        </Slider>
+        <Slider name="UNPK Low" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.025UNPK Low" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025UNPK Low</Data>
+        </Slider>
+        <Slider name="UNPK High" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.025UNPK High" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025UNPK High</Data>
+        </Slider>
+        <Slider name="UNPK Bonus Low" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.025UNPK Bonus Low" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025UNPK Bonus Low</Data>
+        </Slider>
+        <Slider name="UNPK Bonus High" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.025UNPK Bonus High" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025UNPK Bonus High</Data>
+        </Slider>
+        <Slider name="UN7B Low" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.025UN7B Low" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025UN7B Low</Data>
+        </Slider>
+        <Slider name="UN7B High" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.025UN7B High" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025UN7B High</Data>
+        </Slider>
+        <Slider name="UNPBB Low" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.025UNPBB Low" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025UNPBB Low</Data>
+        </Slider>
+        <Slider name="UNPBB High" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.025UNPBB High" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025UNPBB High</Data>
+        </Slider>
+        <Slider name="Seraphim Low" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.025Seraphim Low" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025Seraphim Low</Data>
+        </Slider>
+        <Slider name="Seraphim High" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.025Seraphim High" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025Seraphim High</Data>
+        </Slider>
+        <Slider name="Demonfet Low" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.025Demonfet Low" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025Demonfet Low</Data>
+        </Slider>
+        <Slider name="Demonfet High" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.025Demonfet High" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025Demonfet High</Data>
+        </Slider>
+        <Slider name="Dream Girl Low" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.025Dream Girl Low" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025Dream Girl Low</Data>
+        </Slider>
+        <Slider name="Dream Girl High" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.025Dream Girl High" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025Dream Girl High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.025Top Model Low" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025Top Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.025Top Model High" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025Top Model High</Data>
+        </Slider>
+        <Slider name="Leito Low" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.025Leito Low" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025Leito Low</Data>
+        </Slider>
+        <Slider name="Leito High" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.025Leito High" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025Leito High</Data>
+        </Slider>
+        <Slider name="UNPF Low" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.025UNPF Low" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025UNPF Low</Data>
+        </Slider>
+        <Slider name="UNPF High" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.025UNPF High" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025UNPF High</Data>
+        </Slider>
+        <Slider name="UNPFx Low" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.025UNPFx Low" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025UNPFx Low</Data>
+        </Slider>
+        <Slider name="UNPFx High" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.025UNPFx High" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025UNPFx High</Data>
+        </Slider>
+        <Slider name="CNHF Low" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.025CNHF Low" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025CNHF Low</Data>
+        </Slider>
+        <Slider name="CNHF High" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.025CNHF High" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025CNHF High</Data>
+        </Slider>
+        <Slider name="CNHF Bonus Low" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.025CNHF Bonus Low" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025CNHF Bonus Low</Data>
+        </Slider>
+        <Slider name="CNHF Bonus High" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.025CNHF Bonus High" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025CNHF Bonus High</Data>
+        </Slider>
+        <Slider name="MCBM Low" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.025MCBM Low" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025MCBM Low</Data>
+        </Slider>
+        <Slider name="MCBM High" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.025MCBM High" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025MCBM High</Data>
+        </Slider>
+        <Slider name="Venus Low" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.025Venus Low" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025Venus Low</Data>
+        </Slider>
+        <Slider name="Venus High" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.025Venus High" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025Venus High</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 Low" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.025ZGGB-R2 Low" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025ZGGB-R2 Low</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 High" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.025ZGGB-R2 High" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025ZGGB-R2 High</Data>
+        </Slider>
+        <Slider name="Manga Low" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.025Manga Low" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025Manga Low</Data>
+        </Slider>
+        <Slider name="Manga High" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.025Manga High" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025Manga High</Data>
+        </Slider>
+        <Slider name="CHSBHC Low" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.025CHSBHC Low" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025CHSBHC Low</Data>
+        </Slider>
+        <Slider name="CHSBHC High" invert="false" small="0" big="0">
+            <Data name="Tsun_Cuirass.025CHSBHC High" target="Tsun_Cuirass.025" local="true">UUNP - Goma - TsunTsun Nipple Protector.osd\Tsun_Cuirass.025CHSBHC High</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>
